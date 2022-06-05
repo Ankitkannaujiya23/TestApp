@@ -1,0 +1,124 @@
+{
+    "stateCode": "Maharashtra",
+    "age": 18,
+    "birthDate": "1989-01-01",
+    "buyType": 2,
+    "email": {
+        "address": "abc@pnbmetlife.com",
+        "primary": true,
+        "typeCode": "PERSONAL"
+    },
+    "familyMember": {
+        "birthDate": "1974-12-21",
+        "gender": "Male",
+        "name": {
+            "firstName": "Shweta",
+            "lastName": "Sharma",
+            "middleName": "string",
+            "title": "Mr."
+        }
+    },
+    "fna": {
+        "children": [
+            {
+                "aspiration": 1,
+                "birthDate": "1983-09-30",
+                "gender": "Female",
+                "name": {
+                    "firstName": "Mohan",
+                    "lastName": "Jain",
+                    "middleName": "string",
+                    "title": "Mr."
+                }
+            }
+        ],
+        "financials": [
+            {
+                "key": "ChildEducation",
+                "value": 5
+            }
+        ],
+        "risk": 3,
+        "selectedGoal": "ChildEducation",
+        "stage": 3,
+        "summary": {
+            "goals": [
+                {
+                    "key": "string"
+                }
+            ],
+            "risk": {
+                "key": 3
+            },
+            "stage": {
+                "key": 3
+            }
+        }
+    },
+    "gender": "Male",
+    "jointLifeBirthDate": "1968-12-12",
+    "jointLifeName": {
+        "firstName": "Mohan",
+        "lastName": "Jain",
+        "middleName": "string",
+        "title": "Mr."
+    },
+    "jointLifeGender": "M",
+    "name": {
+        "firstName": "Mohan",
+        "lastName": "Jain",
+        "middleName": "string",
+        "title": "Mr."
+    },
+    "phones": [
+        {
+            "countryCode": "91",
+            "number": "8837641401",
+            "primary": true,
+            "typeCode": "MOBILE",
+            "useCode": "HOME"
+        }
+    ],
+    "premiumCalculation": {
+        "survivalBenefit": "1",
+        "annualPremiumAmount": {
+            "amount": 200000,
+            "currencyCode": "INR"
+        },
+        "coverTerm": 1,
+        "frequencyCode": 4,
+        "guaranteedDeathBenefitAmount": {
+            "amount": 200000,
+            "currencyCode": "INR"
+        },
+        "guaranteedIncomeAmount": {
+            "amount": 200000,
+            "currencyCode": "INR"
+        },
+        "maturityBenefitAmount": {
+            "amount": 200000,
+            "currencyCode": "INR"
+        },
+        "modalPremiumAmount": {
+            "amount": 200000,
+            "currencyCode": "INR"
+        },
+        "paymentTerm": 12,
+        "planId": 1,
+        "productId": 12031,
+        "productName": "PNB MetLife Century Plan",
+        "sumAssuredAmount": {
+            "amount": 250000,
+            "currencyCode": "INR"
+        }
+    },
+    "quotationId": 4509998,
+    "step": 6,
+    "utmCampaign": "SMC",
+    "utmMedium": "Online",
+    "utmSource": "Broker",
+    "country": "India",
+    "pincode": "302021",
+    "educationalQualification": "1",
+    "occupation": "1"
+}
